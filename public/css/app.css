@@ -1,0 +1,18 @@
+div.jumbotron {
+    background-color: #FFC107;
+}   
+main.container {
+    padding-top: 1em;
+    padding-bottom: 3em;
+}
+.nav-tabs a {
+    font-size: 1.3em;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+	font-size: 1.3em;
+    color: #F57C00;
+}
+#pagos .panel-heading {
+	padding-bottom: 0;
+	border-bottom: 0;
+}
